@@ -31,7 +31,7 @@ app, just your shifts and your rate.
 No installation needed. Clone the repo and run it with Python 3:
 
 ```bash
-git clone https://github.com/ahsanhani/shiftcalc.git
+git clone https://github.com/smm-ahsan/shiftcalc.git
 cd shiftcalc
 python3 shiftcalc.py --help
 ```
